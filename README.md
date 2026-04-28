@@ -1,5 +1,5 @@
 ## Emails
-Folder __emails__ contain 200 emails with dummy settlement cases for further investigation
+Folder __emails__ contains 200 emails with dummy settlement cases for further investigation
 
 
 ## API
