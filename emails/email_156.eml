@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============1406938253943462824=="
+MIME-Version: 1.0
+From: Sarah Jensen <s.jensen@nordbank.com>
+To: Settlement Desk <settlement@counterparty.com>
+Date: Tue, 28 Apr 2026 15:38:49 +0200
+Subject: =?utf-8?q?Reconciliation_Query_=E2=80=93_PK40054596_=E2=80=93_Siemens_AG?=
+Message-ID: <177738352935.31976.4778285268774428972@Arek.yallo.box>
+
+--===============1406938253943462824==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBTaXIvTWFkYW0sCgpXZSBhcmUgcGVyZm9ybWluZyBvdXIgc3RhbmRhcmQgcG9zdC1zZXR0
+bGVtZW50IHJldmlldyBhbmQgd2lzaCB0byBvYnRhaW4gdGhlIGZpbmFsIHNldHRsZW1lbnQgY29u
+ZmlybWF0aW9uIGZvciB0cmFkZSBQSzQwMDU0NTk2LgoKQ291bGQgeW91IGtpbmRseSBmb3J3YXJk
+IHRoZSByZWxldmFudCBkb2N1bWVudGF0aW9uIHRvIG91ciBvcGVyYXRpb25zIHRlYW0gc28gd2Ug
+bWF5IGNvbXBsZXRlIG91ciBpbnRlcm5hbCByZWNvcmRzPwoKWW91cnMgZmFpdGhmdWxseSwKUmVj
+b25jaWxpYXRpb24gVGVhbQ==
+
+--===============1406938253943462824==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0NCiAgRGlyZWN0aW9uICAgICAgICAgICAgICBLYXVmDQogIFN0bCBE
+YXRlICAgICAgICAgICAgICAgMjAyNi0wMy0xMA0KICBUcmQgQ2N5ICAgICAgICAgICAgICAgIEVV
+Ug0KICBUcmQgQW10ICAgICAgICAgICAgICAgIDUxMiw2MzMuNzENCiAgQ3B0eSAgICAgICAgICAg
+ICAgICAgICBCYW5rIG9mIEFtZXJpY2ENCiAgVHJhZGUgUmVmICAgICAgICAgICAgICBQSzQwMDU0
+NTk2DQogIFRyZCBEdCAgICAgICAgICAgICAgICAgMjAyNi0wMy0wOQ0KICBTZWN1cml0eSAgICAg
+ICAgICAgICAgIFNpZW1lbnMgQUcNCiAgU2hhcmVzICAgICAgICAgICAgICAgICA5Nyw2MDYNCi0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0=
+
+--===============1406938253943462824==--

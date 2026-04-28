@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============0265940176514762930=="
+MIME-Version: 1.0
+From: James O'Brien <j.obrien@meridianfunds.co.uk>
+To: Middle Office <middle.office@fundadmin.com>
+Date: Tue, 28 Apr 2026 15:38:49 +0200
+Subject: =?utf-8?q?Settlement_Query_=E2=80=93_Tesla_Inc=2E_=E2=80=93_2026-03-26?=
+Message-ID: <177738352904.31976.10343999963264870941@Arek.yallo.box>
+
+--===============0265940176514762930==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBDb3VudGVycGFydHkgT3BlcmF0aW9ucywKCldlIGFyZSBwZXJmb3JtaW5nIG91ciBzdGFu
+ZGFyZCBwb3N0LXNldHRsZW1lbnQgcmV2aWV3IGFuZCB3aXNoIHRvIG9idGFpbiB0aGUgZmluYWwg
+c2V0dGxlbWVudCBjb25maXJtYXRpb24gZm9yIHRyYWRlIExBMTQ3MjU3NzUuCgpDb3VsZCB5b3Ug
+a2luZGx5IGZvcndhcmQgdGhlIHJlbGV2YW50IGRvY3VtZW50YXRpb24gdG8gb3VyIG9wZXJhdGlv
+bnMgdGVhbSBzbyB3ZSBtYXkgY29tcGxldGUgb3VyIGludGVybmFsIHJlY29yZHM/CgpLaW5kIHJl
+Z2FyZHMsCkNvcnBvcmF0ZSBBY3Rpb25zICYgU2V0dGxlbWVudA==
+
+--===============0265940176514762930==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCiAgLS0tLS0tLS0tLSAgLS0tLS0tLS0gIC0tLS0tLS0tLSAg
+LS0tLS0tLS0tLS0tLS0tLSAgLS0tLS0tLSAgLS0tICAtLS0tLS0tLS0tLS0gIC0tLS0tLS0tLS0t
+LS0NCiAgU3RsIERhdGUgICAgQnV5IFNhbGUgIERlYWxlciAgICAgVHJhbnNhY3Rpb24gRGF0ZSAg
+Tm9taW5hbCAgQ2N5ICBBbW91bnQgICAgICAgIFNlY3VyaXR5IERlc2MNCiAgMjYuMDMuMjAyNiAg
+QnV5ICAgICAgIENpdGlncm91cCAgMjUuMDMuMjAyNiAgICAgICAgNDEgMjAwICAgVVNEICAxIDMy
+NCA5NDUuODAgIFRlc2xhIEluYy4gICANCiAgLS0tLS0tLS0tLSAgLS0tLS0tLS0gIC0tLS0tLS0t
+LSAgLS0tLS0tLS0tLS0tLS0tLSAgLS0tLS0tLSAgLS0tICAtLS0tLS0tLS0tLS0gIC0tLS0tLS0t
+LS0tLS0=
+
+--===============0265940176514762930==--

@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============3572970923576491364=="
+MIME-Version: 1.0
+From: Elena Rossi <e.rossi@mediobanca.it>
+To: Middle Office <middle.office@fundadmin.com>
+Date: Tue, 28 Apr 2026 15:38:48 +0200
+Subject: =?utf-8?q?Settlement_Query_=E2=80=93_Tesla_Inc=2E_=E2=80=93_2026-03-27?=
+Message-ID: <177738352860.31976.5114375138260309234@Arek.yallo.box>
+
+--===============3572970923576491364==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBUcmFkZSBPcGVyYXRpb25zIFRlYW0sCgpJbiBjb25uZWN0aW9uIHdpdGggb3VyIHF1YXJ0
+ZXItZW5kIGF1ZGl0LCB3ZSBhcmUgY29sbGVjdGluZyBzZXR0bGVtZW50IGV2aWRlbmNlIGZvciBj
+bG9zZWQgdHJhZGVzLiBUcmFkZSBQQTgzODg5MTM2IGlzIHJlY29yZGVkIGFzIHNldHRsZWQgaW4g
+b3VyIHN5c3RlbS4KClBsZWFzZSBwcm92aWRlIHRoZSBmaW5hbCB0cmFkZSBjb25maXJtYXRpb24g
+b3IgU1dJRlQgY29uZmlybWF0aW9uIGFzIGFwcHJvcHJpYXRlLgoKWW91cnMgc2luY2VyZWx5LApD
+b21wbGlhbmNlICYgT3BlcmF0aW9ucw==
+
+--===============3572970923576491364==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0NCiAgU2VjIE5hbWUgICAgICAgICAgICAgICBUZXNsYSBJbmMuDQog
+IE5vbSAgICAgICAgICAgICAgICAgICAgMzAsNTUwDQogIEIvUyAgICAgICAgICAgICAgICAgICAg
+QnV5DQogIERlYWxlciAgICAgICAgICAgICAgICAgTWFjcXVhcmllIEdyb3VwDQogIEZhY2UgVmFs
+dWUgICAgICAgICAgICAgMSwxNjcsNDA0LjEwDQogIEN1cnJlbmN5ICAgICAgICAgICAgICAgRVVS
+DQogIFRyZCBEYXRlICAgICAgICAgICAgICAgMjAyNi4wMy4yNg0KICBTdGxtdCBEYXRlICAgICAg
+ICAgICAgIDIwMjYuMDMuMjcNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0=
+
+--===============3572970923576491364==--

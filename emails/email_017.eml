@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============5135318022810742355=="
+MIME-Version: 1.0
+From: James O'Brien <j.obrien@meridianfunds.co.uk>
+To: Trade Operations <trade.ops@clearinghouse.com>
+Date: Tue, 28 Apr 2026 15:38:47 +0200
+Subject: =?utf-8?q?Trade_Status_Update_Request_=E2=80=93_BD48967284?=
+Message-ID: <177738352763.31976.12947020114946483018@Arek.yallo.box>
+
+--===============5135318022810742355==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBTZXR0bGVtZW50IERlc2ssCgpXZSBhcmUgcGVyZm9ybWluZyBvdXIgc3RhbmRhcmQgcG9z
+dC1zZXR0bGVtZW50IHJldmlldyBhbmQgd2lzaCB0byBvYnRhaW4gdGhlIGZpbmFsIHNldHRsZW1l
+bnQgY29uZmlybWF0aW9uIGZvciB0cmFkZSBCRDQ4OTY3Mjg0LgoKQ291bGQgeW91IGtpbmRseSBm
+b3J3YXJkIHRoZSByZWxldmFudCBkb2N1bWVudGF0aW9uIHRvIG91ciBvcGVyYXRpb25zIHRlYW0g
+c28gd2UgbWF5IGNvbXBsZXRlIG91ciBpbnRlcm5hbCByZWNvcmRzPwoKWW91cnMgc2luY2VyZWx5
+LApDb21wbGlhbmNlICYgT3BlcmF0aW9ucw==
+
+--===============5135318022810742355==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0NCiAgVmFsIER0ICAgICAgICAgICAgICAgICAyNy8wMy8yMDI2DQog
+IEJ1eS9TZWxsICAgICAgICAgICAgICAgU2FsZQ0KICBUcmFucyBEdCAgICAgICAgICAgICAgIDI2
+LzAzLzIwMjYNCiAgRmFjZSBBbXQgICAgICAgICAgICAgICA0NyAxMTENCiAgTmV0IEFtdCAgICAg
+ICAgICAgICAgICAzNDQgNDU0LjI0DQogIEN1cnIgICAgICAgICAgICAgICAgICAgRVVSDQogIENv
+dW50ZXJwYXJ0ICAgICAgICAgICAgVW5pQ3JlZGl0DQogIFNlY3VyaXR5ICAgICAgICAgICAgICAg
+TWV0YSBQbGF0Zm9ybXMgSW5jLg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLQ==
+
+--===============5135318022810742355==--

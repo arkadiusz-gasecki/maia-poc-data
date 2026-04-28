@@ -1,0 +1,35 @@
+Content-Type: multipart/mixed; boundary="===============7388425722136255021=="
+MIME-Version: 1.0
+From: Anna Kowalski <a.kowalski@warsawsec.pl>
+To: Trade Operations <trade.ops@clearinghouse.com>
+Date: Tue, 28 Apr 2026 15:38:49 +0200
+Subject: =?utf-8?q?Trade_Status_Update_Request_=E2=80=93_HJ10386713?=
+Message-ID: <177738352950.31976.9566192265395326424@Arek.yallo.box>
+
+--===============7388425722136255021==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+SGVsbG8sCgpXZSBoYXZlIG5vdGVkIHRoYXQgdHJhZGUgSEoxMDM4NjcxMywgcmVjb3JkZWQgYXMg
+Y2xvc2VkIGluIG91ciBzeXN0ZW0sIGhhcyBpbmNvbXBsZXRlIGRvY3VtZW50YXRpb24gb24gZmls
+ZS4KCkFzIHBhcnQgb2Ygb3VyIGF1ZGl0IHByb2Nlc3MsIHdlIHJlcXVpcmUgY29tcGxldGUgdHJh
+ZGUgZGV0YWlscyBmb3IgYWxsIHNldHRsZWQgdHJhbnNhY3Rpb25zLiBQbGVhc2UgcHJvdmlkZSB0
+aGUgbWlzc2luZyBpbmZvcm1hdGlvbiBzbyB3ZSBjYW4gdXBkYXRlIG91ciByZWNvcmRzIGFjY29y
+ZGluZ2x5LgoKWW91cnMgZmFpdGhmdWxseSwKUmVjb25jaWxpYXRpb24gVGVhbQ==
+
+--===============7388425722136255021==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCiAgLS0tLS0tLS0tLSAgLS0tLS0tLS0tICAtLS0tLS0tLS0t
+ICAtLS0tLSAgLS0tLS0tLS0tLSAgLS0tLS0tLS0tLSAgLS0tLS0tLS0NCiAgVHJhZGUgUmVmICAg
+Q3B0eSAgICAgICBUcmFucyBEdCAgICBRdHkgICAgVmFsIER0ICAgICAgTmV0IEFtb3VudCAgVHJk
+IFNpZGUNCiAgSEoxMDM4NjcxMyAgVW5pQ3JlZGl0ICAyMDI2LjAzLjEyICA3MjQxNyAgMjAyNi4w
+My4xMyAgMTY1MDM5NS44OSAgU2FsZSAgICANCiAgLS0tLS0tLS0tLSAgLS0tLS0tLS0tICAtLS0t
+LS0tLS0tICAtLS0tLSAgLS0tLS0tLS0tLSAgLS0tLS0tLS0tLSAgLS0tLS0tLS0=
+
+--===============7388425722136255021==--

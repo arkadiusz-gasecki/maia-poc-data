@@ -1,0 +1,38 @@
+Content-Type: multipart/mixed; boundary="===============7832789895827362784=="
+MIME-Version: 1.0
+From: John Smith <j.smith@globalcapital.com>
+To: Middle Office <middle.office@fundadmin.com>
+Date: Tue, 28 Apr 2026 15:38:49 +0200
+Subject: =?utf-8?q?Reconciliation_Query_=E2=80=93_SL99789329_=E2=80=93_Apple_Inc=2E?=
+Message-ID: <177738352908.31976.16321986166154060660@Arek.yallo.box>
+
+--===============7832789895827362784==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBDb3VudGVycGFydHkgT3BlcmF0aW9ucywKCldlIGhhdmUgaWRlbnRpZmllZCBhIHZhbHVl
+IGRhdGUgbWlzbWF0Y2ggb24gdHJhZGUgU0w5OTc4OTMyOS4gT3VyIGludGVybmFsIGJvb2tpbmcg
+cmVmbGVjdHMgMTktTWFyLTIwMjYsIHdoZXJlYXMgdGhlIGluc3RydWN0aW9uIHJlY2VpdmVkIGZy
+b20geW91ciBzaWRlIGluZGljYXRlcyAyNy1BcHItMjAyNi4KClBsZWFzZSBjb25maXJtIHRoZSBj
+b3JyZWN0IHNldHRsZW1lbnQgZGF0ZSBzbyB3ZSBjYW4gYWxpZ24gb3VyIHJlY29yZHMgYW5kIGF2
+b2lkIGFueSBwb3RlbnRpYWwgc2V0dGxlbWVudCBmYWlsdXJlcy4KCkJlc3QgcmVnYXJkcywKT3Bl
+cmF0aW9ucyBUZWFt
+
+--===============7832789895827362784==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCiAgLS0tLS0tICAtLS0tICAtLS0tLS0tLS0tLS0tLS0gIC0t
+LS0tLS0tICAtLS0tLS0tLS0tLS0gIC0tLS0tLS0tLS0tICAtLS0tLS0tLS0tICAtLS0tLS0tLS0t
+LS0tLS0tDQogIE5vbSAgICAgQ3VyciAgU2V0dGxlbWVudCBEYXRlICBCdXkvU2VsbCAgQW1vdW50
+ICAgICAgICBUcmQgRGF0ZSAgICAgSW5zdHJ1bWVudCAgRXhlY3V0aW5nIEJyb2tlcg0KICA4NCAw
+MjggIENIRiAgIDI3LUFwci0yMDI2ICAgICAgVmVya2F1ZiAgIDEgNzk1IDQxNS43NSAgMTgtTWFy
+LTIwMjYgIEFwcGxlIEluYy4gIEpQIE1vcmdhbiAgICAgICANCiAgLS0tLS0tICAtLS0tICAtLS0t
+LS0tLS0tLS0tLS0gIC0tLS0tLS0tICAtLS0tLS0tLS0tLS0gIC0tLS0tLS0tLS0tICAtLS0tLS0t
+LS0tICAtLS0tLS0tLS0tLS0tLS0t
+
+--===============7832789895827362784==--

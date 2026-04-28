@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============5761579292455174261=="
+MIME-Version: 1.0
+From: Michael Hartmann <m.hartmann@eurofin.de>
+To: Trade Operations <trade.ops@clearinghouse.com>
+Date: Tue, 28 Apr 2026 15:38:48 +0200
+Subject: Clarification Required: Trade RL85957690
+Message-ID: <177738352880.31976.4324910916623821795@Arek.yallo.box>
+
+--===============5761579292455174261==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBTaXIvTWFkYW0sCgpXZSBhcmUgY29uZHVjdGluZyBvdXIgc3RhbmRhcmQgcHJlLXNldHRs
+ZW1lbnQgcmV2aWV3IGFuZCBub3RlIHRoYXQgdHJhZGUgUkw4NTk1NzY5MCByZW1haW5zIG9wZW4g
+d2l0aCBhIHNldHRsZW1lbnQgZGF0ZSBvZiAwNi4wMy4yMDI2LgoKQ291bGQgeW91IGtpbmRseSBj
+b25maXJtIHRoYXQgYWxsIG5lY2Vzc2FyeSBwcmUtc2V0dGxlbWVudCBjaGVja3MgYW5kIGZ1bmRp
+bmcgYXJyYW5nZW1lbnRzIGFyZSBpbiBwbGFjZT8KCkJlc3QgcmVnYXJkcywKVHJhZGUgT3BlcmF0
+aW9ucw==
+
+--===============5761579292455174261==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCiAgLS0tLS0tLS0tLS0tLS0tLS0gIC0tLSAgLS0tLS0tLS0t
+LSAgLS0tLS0tICAtLS0tLS0tLS0tLS0gIC0tLS0tLS0tLS0tLS0tLS0tLS0tICAtLS0tLS0tLS0t
+ICAtLS0tLS0tLQ0KICBDb3VudGVycGFydCAgICAgICAgQ2N5ICBUcmFucyBEdCAgICBTaGFyZXMg
+IEZhY2UgVmFsdWUgICAgSW5zdHJ1bWVudCAgICAgICAgICAgIFZhbCBEdCAgICAgIEJ1eSBTYWxl
+DQogIE5vbXVyYSBTZWN1cml0aWVzICBFVVIgIDA1LjAzLjIwMjYgIDYxLDkyNyAgMSw4MzYsNjE5
+LjE4ICBKUE1vcmdhbiBDaGFzZSAmIENvLiAgMDYuMDMuMjAyNiAgVmVya2F1ZiANCiAgLS0tLS0t
+LS0tLS0tLS0tLS0gIC0tLSAgLS0tLS0tLS0tLSAgLS0tLS0tICAtLS0tLS0tLS0tLS0gIC0tLS0t
+LS0tLS0tLS0tLS0tLS0tICAtLS0tLS0tLS0tICAtLS0tLS0tLQ==
+
+--===============5761579292455174261==--

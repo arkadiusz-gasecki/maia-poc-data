@@ -1,0 +1,49 @@
+Content-Type: multipart/mixed; boundary="===============2105393083177214010=="
+MIME-Version: 1.0
+From: Claire Dubois <c.dubois@paribas-ops.fr>
+To: Settlement Desk <settlement@counterparty.com>
+Date: Tue, 28 Apr 2026 15:38:48 +0200
+Subject: =?utf-8?q?Reconciliation_Query_=E2=80=93_RB72948597_=E2=80=93_Apple_Inc=2E?=
+Message-ID: <177738352801.31976.13443785292093562162@Arek.yallo.box>
+
+--===============2105393083177214010==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBQb3N0LVRyYWRlIFNlcnZpY2VzLAoKQXMgcGFydCBvZiBvdXIgcm91dGluZSBzZXR0bGVt
+ZW50IG1vbml0b3JpbmcsIHdlIHdpc2ggdG8gZm9sbG93IHVwIG9uIHRyYWRlIFJCNzI5NDg1OTcg
+aW4gQXBwbGUgSW5jLiwgZHVlIHRvIHNldHRsZSBvbiAyMDI2LTAzLTEwLgoKUGxlYXNlIGFkdmlz
+ZSB3aGV0aGVyIGFueSBhY3Rpb24gaXMgcmVxdWlyZWQgb24gb3VyIGVuZCB0byBlbnN1cmUgc21v
+b3RoIGFuZCB0aW1lbHkgc2V0dGxlbWVudCBvZiB0aGlzIHBvc2l0aW9uLgoKV2l0aCB0aGFua3Ms
+ClRyYWRlIFN1cHBvcnQ=
+
+--===============2105393083177214010==
+Content-Type: application/zip
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.zip"
+
+UEsDBBQAAAAIANd8nFxVE5LPIQQAANoFAAARAAAAdHJhZGVfZGV0YWlscy5wZGZTDXBx0zXUM+ZS
+ffn6434uQwUDhfykLC4bGy595/zSvBIFQy5978yUYoVoY6BUUCyXvm9qSmaiU36FQrQBUMTU0lTP
+yELBwsRQz8ISKBtSWZCqoB+QmJ5azGVnx5WalwIyzgjJWP+C1DzH5JLM/DyomQr6bpklHgp5pTk5
+QANAWn0SK/NLSxT0/fNSnfNzSnPzIMLFCiDnBcEscU4sSczJT0eyxhjF9XklqXklxQomED0BiUWp
+IO9AeEGpxfmlRclAI82RjQTZgmSeCZJ5bpk5JalFQLfmJJakuqQm56ekcun7pOall2QomJhagnQV
+lxSlJuZyVcxZOjU2/7KBiMP979rvHle8ePrrdt2bMK02ByZdp0eGWXsDp0w7693y6/3G7uk6V58s
+86ntCDn6/MeTZ82Hl3M7pT44fzSU9f10nhlOSivePXCe+u9RzIKQBBn3SQFrH27i+nrr8Nl3G2+3
+2OrUROfPWl4e8NdLm4Oj9ZGe3BJF3of7nl86UMuS9zgzgcf50YGth3ekHJOJ4jx4WPaIa5Pi5oQp
+rm6eZ/j2F/BPP92bf+0mx32hs5JXPrH0XZoW97R2/exz/DZOx6d2sfpFz+W79klc8d1UvtIb2fpm
+Hm92OO/g8IprWrFn3z9DDv6EOpZznq5FflZO9TF8L56fuPSs1SXt1OznMnNf8p6uepq4L3e5qMjH
+nQlnzMOMPy6rdDm9UiVo4nXt/Ntptw8tyvu7ZcUiBfde3jk75k2cYWiVbyV4rMTQNbrb7+sirTWJ
+hoVmrj/29yj/KmbbuZ3HI7rRZ+rqR4f/HLK+/+9d2eVVpz7EmC4zXjw3hGutXbZFVHbKpjkLVaxu
+dq/bZXvn2tktu9f0nFdM/jfjr3zzRL6ZGuKczX5fjs2+Gyy9a+18qzmLFMx7eT+3t6vVFoRV3Ctg
+sZ956LKo1L058ctVRQ5aJvr8e+R8w4S35t77MHv2k/GCfssiQAkBGqvQJGGKlCScEotT3YDJTEHf
+IzWnLLUkMzlR1yk/J4VL3zUPmD4y89IV9MMz8xzzijNhAlz6waVJJeC0BkpxhrCEBzIGKeGZ4beF
+cgvMkVM2yHAbG303QwVTSGZwM1IAuSAIqF4/oCg/OTi1RCFaH1hSAA1NrQC6xDMXmFGcoLQzlPaM
+RbLAAjkrAgMQlN9dgDlHQcPFysjAyMzAxMjC0NjYwsQ8ShNJW0VRahqXgYIllwEcKJiZmhqbKqQp
+wMUMgc4Ey+TBxQwNjDDEjAww1RlZYIpZGJphiFkaWqCLGWKx19DQEMnekqLEzJzUIrCfgzOrUoHe
+0A/Kzy9RMIIEq2deWr6CBZTtohBtY2Rk5uzq5OLq7GrobOZm5OTk6mzpZGLmZOli6eJs4mJhR1hF
+LKTgSSwqAQedoaGZOZeqqqu/GxcAUEsBAhQAFAAAAAgA13ycXFUTks8hBAAA2gUAABEAAAAAAAAA
+AAAAALaBAAAAAHRyYWRlX2RldGFpbHMucGRmUEsFBgAAAAABAAEAPwAAAFAEAAAAAA==
+
+--===============2105393083177214010==--

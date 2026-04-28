@@ -1,0 +1,36 @@
+Content-Type: multipart/mixed; boundary="===============3256585008230089078=="
+MIME-Version: 1.0
+From: John Smith <j.smith@globalcapital.com>
+To: Settlement Desk <settlement@counterparty.com>
+Date: Tue, 28 Apr 2026 15:38:47 +0200
+Subject: =?utf-8?q?Outstanding_Trade_=E2=80=93_Action_Required_=E2=80=93_XJ02184853?=
+Message-ID: <177738352748.31976.14849535569979850614@Arek.yallo.box>
+
+--===============3256585008230089078==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+VG8gV2hvbSBJdCBNYXkgQ29uY2VybiwKCk91ciBwb3N0LXNldHRsZW1lbnQgYXVkaXQgb2YgdHJh
+ZGUgWEowMjE4NDg1MyBoYXMgcmV2ZWFsZWQgdGhhdCB0aGUgdHJhZGUgcmVjb3JkIGlzIGluY29t
+cGxldGUgaW4gb3VyIHN5c3RlbSwgZGVzcGl0ZSB0aGUgdHJhZGUgYmVpbmcgbWFya2VkIGFzIGNs
+b3NlZC4KCkNvdWxkIHlvdSBwbGVhc2Ugc3VwcGx5IHRoZSBtaXNzaW5nIGRldGFpbHMgYXQgeW91
+ciBlYXJsaWVzdCBjb252ZW5pZW5jZSBzbyB0aGF0IG91ciByZWNvcmRzIGNhbiBiZSBmdWxseSBy
+ZWNvbmNpbGVkIGFuZCBhcmNoaXZlZD8KClNpbmNlcmVseSwKT3BlcmF0aW9ucyBUZWFt
+
+--===============3256585008230089078==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0NCiAgU2lkZSAgICAgICAgICAgICAgICAgICBWZXJrYXVmDQogIFRy
+YWRlIFJlZiAgICAgICAgICAgICAgWEowMjE4NDg1Mw0KICBRdWFudGl0eSAgICAgICAgICAgICAg
+IDI5ODM3DQogIEFzc2V0ICAgICAgICAgICAgICAgICAgVUJTIEdyb3VwIEFHDQogIEN1cnJlbmN5
+ICAgICAgICAgICAgICAgRVVSDQogIE5ldCBBbW91bnQgICAgICAgICAgICAgMTY2NjcxMi44NA0K
+ICBFeGVjdXRpbmcgQnJva2VyICAgICAgIFNhbnRhbmRlcg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ==
+
+--===============3256585008230089078==--

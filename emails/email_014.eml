@@ -1,0 +1,34 @@
+Content-Type: multipart/mixed; boundary="===============2630503025202861042=="
+MIME-Version: 1.0
+From: James O'Brien <j.obrien@meridianfunds.co.uk>
+To: Middle Office <middle.office@fundadmin.com>
+Date: Tue, 28 Apr 2026 15:38:47 +0200
+Subject: =?utf-8?q?Trade_Status_Update_Request_=E2=80=93_XM82293303?=
+Message-ID: <177738352761.31976.2137583289811323831@Arek.yallo.box>
+
+--===============2630503025202861042==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBTaXIvTWFkYW0sCgpUaGlzIGlzIGEgY291cnRlc3kgZm9sbG93LXVwIHJlZ2FyZGluZyB0
+cmFkZSBYTTgyMjkzMzAzLCB3aGljaCBpcyBjdXJyZW50bHkgaW4gb3BlbiBzdGF0dXMgd2l0aCBh
+IGZvcnRoY29taW5nIHNldHRsZW1lbnQgZGF0ZSBvZiAyMDI2LTAzLTIwLgoKUGxlYXNlIGNvbmZp
+cm0gcmVjZWlwdCBhbmQgYWR2aXNlIGlmIGFueSBjbGFyaWZpY2F0aW9ucyBvciBhY3Rpb25zIGFy
+ZSByZXF1aXJlZCBmcm9tIG91ciBzaWRlIGFoZWFkIG9mIHNldHRsZW1lbnQuCgpXaXRoIHRoYW5r
+cywKVHJhZGUgU3VwcG9ydA==
+
+--===============2630503025202861042==
+Content-Type: application/zip
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.zip"
+
+UEsDBBQAAAAIANd8nFznPuSfzAAAAAACAAARAAAAdHJhZGVfZGV0YWlscy50eHSdkUsKwjAQQPeF
+3mEuUG1TW+zChR/8LCqiIm6HOkIhTTSdLHp7myJoxVXfMu+RDJOzwRvBTj1taRpYEWMpa9+bDcD3
+fC8YgO8BLLVVTOaBhhv4kGPxtGhKgo3R9uHKczfwke7Q45pPhcjiOIzfkaqx4FIrWCHTOxKhSIMw
+DqLMRReUlr51PxJhN1jRwB+W27Wze139s2k0SRPnF7YZn0jKH98eO7tTNRtbkeKezdtPgINEvmtT
+1W1VjLq3iGFe8c9VkGTJNJ2MomjY8l9QSwECFAAUAAAACADXfJxc5z7kn8wAAAAAAgAAEQAAAAAA
+AAAAAAAAtoEAAAAAdHJhZGVfZGV0YWlscy50eHRQSwUGAAAAAAEAAQA/AAAA+wAAAAAA
+
+--===============2630503025202861042==--

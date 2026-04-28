@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============1286946750337905918=="
+MIME-Version: 1.0
+From: James O'Brien <j.obrien@meridianfunds.co.uk>
+To: Settlement Desk <settlement@counterparty.com>
+Date: Tue, 28 Apr 2026 15:38:49 +0200
+Subject: Query: Verkauf of Siemens AG [NM82589440]
+Message-ID: <177738352916.31976.18136943242621189641@Arek.yallo.box>
+
+--===============1286946750337905918==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBTZXR0bGVtZW50IERlc2ssCgpXZSBhcmUgcGVyZm9ybWluZyBvdXIgc3RhbmRhcmQgcG9z
+dC1zZXR0bGVtZW50IHJldmlldyBhbmQgd2lzaCB0byBvYnRhaW4gdGhlIGZpbmFsIHNldHRsZW1l
+bnQgY29uZmlybWF0aW9uIGZvciB0cmFkZSBOTTgyNTg5NDQwLgoKQ291bGQgeW91IGtpbmRseSBm
+b3J3YXJkIHRoZSByZWxldmFudCBkb2N1bWVudGF0aW9uIHRvIG91ciBvcGVyYXRpb25zIHRlYW0g
+c28gd2UgbWF5IGNvbXBsZXRlIG91ciBpbnRlcm5hbCByZWNvcmRzPwoKS2luZCByZWdhcmRzLApD
+b3Jwb3JhdGUgQWN0aW9ucyAmIFNldHRsZW1lbnQ=
+
+--===============1286946750337905918==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0NCiAgTmV0IEFtdCAgICAgICAgICAgICAgICA5MjMsNzE5LjE3DQog
+IEFzc2V0ICAgICAgICAgICAgICAgICAgU2llbWVucyBBRw0KICBCdXkgU2FsZSAgICAgICAgICAg
+ICAgIFZlcmthdWYNCiAgRmFjZSBBbXQgICAgICAgICAgICAgICA1NCwzNzYNCiAgU2V0dGxlIER0
+ICAgICAgICAgICAgICAwMy8wOS8yMDI2DQogIFRyYW5zIER0ICAgICAgICAgICAgICAgMDMvMDYv
+MjAyNg0KICBDdXJyICAgICAgICAgICAgICAgICAgIENIRg0KICBCcm9rZXIgICAgICAgICAgICAg
+ICAgIENpdGlncm91cA0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLQ==
+
+--===============1286946750337905918==--

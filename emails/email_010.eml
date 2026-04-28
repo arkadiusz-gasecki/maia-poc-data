@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============6464113894867233359=="
+MIME-Version: 1.0
+From: Sarah Jensen <s.jensen@nordbank.com>
+To: Post-Trade Services <post-trade@primebrok.com>
+Date: Tue, 28 Apr 2026 15:38:47 +0200
+Subject: =?utf-8?q?Pending_Settlement_=E2=80=93_JPMorgan_Chase_=26_Co=2E_=E2=80=93_2026-03-18?=
+Message-ID: <177738352758.31976.12960592032122372621@Arek.yallo.box>
+
+--===============6464113894867233359==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBQb3N0LVRyYWRlIFNlcnZpY2VzLAoKV2UgYXJlIHJldmlld2luZyBvdXIgb3BlbiBwb3Np
+dGlvbnMgYW5kIG5vdGUgdGhhdCB0cmFkZSBaTjY0ODQ4NTA2IGlzIGN1cnJlbnRseSBtYXJrZWQg
+YXMgb3Blbiwgc2NoZWR1bGVkIGZvciBzZXR0bGVtZW50IG9uIDIwMjYtMDMtMTguCgpDb3VsZCB5
+b3UgcGxlYXNlIGNvbmZpcm0gaWYgYWxsIGludGVybmFsIHByZS1zZXR0bGVtZW50IGNoZWNrcyBh
+cmUgY29tcGxldGUgYW5kIGlmIHdlIGFyZSBvbiB0cmFjayBmb3IgYSB0aW1lbHkgc2V0dGxlbWVu
+dD8KCldpdGggdGhhbmtzLApUcmFkZSBTdXBwb3J0
+
+--===============6464113894867233359==
+Content-Type: application/plain
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.txt"
+
+VHJhZGUgSW5xdWlyeSBEZXRhaWxzDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09DQoNCiAgLS0tLS0tLS0tLS0gIC0tLS0tLS0tICAtLS0tLS0tLS0t
+ICAtLS0tLS0tLS0tLS0tLS0tLS0tLSAgLS0tLS0tLS0tLSAgLS0tLS0tLS0gIC0tLSAgLS0tLS0t
+LS0tLQ0KICBDcHR5ICAgICAgICAgUXVhbnRpdHkgIFN0bG10IERhdGUgIFNlY3VyaXR5IERlc2Mg
+ICAgICAgICBGYWNlIFZhbHVlICBUcmQgU2lkZSAgQ2N5ICBFeGVjIERhdGUgDQogIEJOUCBQYXJp
+YmFzICAyMzIxNSAgICAgMjAyNi0wMy0xOCAgSlBNb3JnYW4gQ2hhc2UgJiBDby4gIDE5Nzc4NTAu
+NDEgIFZlcmthdWYgICBVU0QgIDIwMjYtMDMtMTcNCiAgLS0tLS0tLS0tLS0gIC0tLS0tLS0tICAt
+LS0tLS0tLS0tICAtLS0tLS0tLS0tLS0tLS0tLS0tLSAgLS0tLS0tLS0tLSAgLS0tLS0tLS0gIC0t
+LSAgLS0tLS0tLS0tLQ==
+
+--===============6464113894867233359==--

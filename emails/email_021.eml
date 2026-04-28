@@ -1,0 +1,34 @@
+Content-Type: multipart/mixed; boundary="===============0902338169496719289=="
+MIME-Version: 1.0
+From: Michael Hartmann <m.hartmann@eurofin.de>
+To: Post-Trade Services <post-trade@primebrok.com>
+Date: Tue, 28 Apr 2026 15:38:47 +0200
+Subject: =?utf-8?q?Outstanding_Trade_=E2=80=93_Action_Required_=E2=80=93_KC89342948?=
+Message-ID: <177738352769.31976.2854200273222340638@Arek.yallo.box>
+
+--===============0902338169496719289==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+RGVhciBTaXIvTWFkYW0sCgpXZSBhcmUgY29uZHVjdGluZyBvdXIgc3RhbmRhcmQgcHJlLXNldHRs
+ZW1lbnQgcmV2aWV3IGFuZCBub3RlIHRoYXQgdHJhZGUgS0M4OTM0Mjk0OCByZW1haW5zIG9wZW4g
+d2l0aCBhIHNldHRsZW1lbnQgZGF0ZSBvZiAwMy8xOC8yMDI2LgoKQ291bGQgeW91IGtpbmRseSBj
+b25maXJtIHRoYXQgYWxsIG5lY2Vzc2FyeSBwcmUtc2V0dGxlbWVudCBjaGVja3MgYW5kIGZ1bmRp
+bmcgYXJyYW5nZW1lbnRzIGFyZSBpbiBwbGFjZT8KCkJlc3QgcmVnYXJkcywKVHJhZGUgT3BlcmF0
+aW9ucw==
+
+--===============0902338169496719289==
+Content-Type: application/zip
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="trade_details.zip"
+
+UEsDBBQAAAAIANd8nFx1C/VD0AAAAP0BAAARAAAAdHJhZGVfZGV0YWlscy50eHS9kDFPwzAQhfdI
++Q/vD9CkTkTcoUObMESUDE1ht9JDWLg2XJ0h/74xDaKAWBj6Te/eO9/pvGO1J9T2vdc8oCKvtDnG
+0fIfxFEcATcXXFZ/6W/Oj+Cr/P067Gqp61n7AR+03qBSnoJuyGN1cL31wI6VParOa2envHGH0LRm
+90qMT8qemWw3TtvSMwUZRq2TFmFX81RX9Qql47cZkGbJXCYiFbfAvJCiSMVMZme/mPwzWS5kDjwQ
+szYGm8F2L8Dd43bK70u5GHsWuRwvUIau+YcnUEsBAhQAFAAAAAgA13ycXHUL9UPQAAAA/QEAABEA
+AAAAAAAAAAAAALaBAAAAAHRyYWRlX2RldGFpbHMudHh0UEsFBgAAAAABAAEAPwAAAP8AAAAAAA==
+
+--===============0902338169496719289==--
