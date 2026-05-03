@@ -15,7 +15,7 @@ X-API-Key: <key>
 
 ### Rate limiting
 
-Each API key is limited to **10 requests per minute** by default.
+Each API key is limited to **30 requests per minute** by default.
 
 ### Endpoints
 
